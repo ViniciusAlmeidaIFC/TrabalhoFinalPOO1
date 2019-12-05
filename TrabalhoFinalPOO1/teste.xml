@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="gerador.Atleta" id="Atleta0">
+    <void property="lista">
+     <void method="add">
+      <object class="gerador.Stats">
+       <void property="FT_certas">
+        <int>2</int>
+       </void>
+       <void property="FT_tentadas">
+        <int>23</int>
+       </void>
+       <void property="pts2_certas">
+        <int>3</int>
+       </void>
+       <void property="pts2_tentadas">
+        <int>18</int>
+       </void>
+       <void property="pts3_certas">
+        <int>16</int>
+       </void>
+       <void property="pts3_tentadas">
+        <int>24</int>
+       </void>
+      </object>
+     </void>
+    </void>
+    <void property="nome">
+     <string>Else Schmitz</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gerador.Atleta" id="Atleta1">
+    <void property="lista">
+     <void method="add">
+      <object class="gerador.Stats">
+       <void property="FT_certas">
+        <int>10</int>
+       </void>
+       <void property="FT_tentadas">
+        <int>24</int>
+       </void>
+       <void property="pts2_certas">
+        <int>3</int>
+       </void>
+       <void property="pts2_tentadas">
+        <int>5</int>
+       </void>
+       <void property="pts3_certas">
+        <int>5</int>
+       </void>
+       <void property="pts3_tentadas">
+        <int>12</int>
+       </void>
+      </object>
+     </void>
+    </void>
+    <void property="nome">
+     <string>Arminda Siqueira</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gerador.Atleta" id="Atleta2">
+    <void property="lista">
+     <void method="add">
+      <object class="gerador.Stats">
+       <void property="FT_certas">
+        <int>9</int>
+       </void>
+       <void property="FT_tentadas">
+        <int>12</int>
+       </void>
+       <void property="pts2_certas">
+        <int>21</int>
+       </void>
+       <void property="pts2_tentadas">
+        <int>21</int>
+       </void>
+       <void property="pts3_certas">
+        <int>18</int>
+       </void>
+       <void property="pts3_tentadas">
+        <int>18</int>
+       </void>
+      </object>
+     </void>
+    </void>
+    <void property="nome">
+     <string>Alice Walterscheid</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="gerador.Atleta" id="Atleta3">
+    <void property="lista">
+     <void method="add">
+      <object class="gerador.Stats">
+       <void property="FT_tentadas">
+        <int>23</int>
+       </void>
+       <void property="pts2_certas">
+        <int>2</int>
+       </void>
+       <void property="pts2_tentadas">
+        <int>10</int>
+       </void>
+       <void property="pts3_certas">
+        <int>5</int>
+       </void>
+       <void property="pts3_tentadas">
+        <int>8</int>
+       </void>
+      </object>
+     </void>
+    </void>
+    <void property="nome">
+     <string>James Rochei</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
